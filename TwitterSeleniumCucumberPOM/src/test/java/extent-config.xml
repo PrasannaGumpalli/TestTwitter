@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+    	
+		<encoding>UTF-8</encoding>
+		
+		
+        <documentTitle>Cucumber ExtentReports - v1.1.1</documentTitle>
+        
+        <!-- report name - displayed at top-nav -->
+        <reportName>Cucumber Automation Report</reportName>
+        
+        <!-- report headline - displayed at top-nav, after reportHeadline -->
+        <reportHeadline> -v1.1.1</reportHeadline>
+        
+        
+    </configuration>
+</extentreports>
